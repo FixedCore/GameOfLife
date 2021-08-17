@@ -1,5 +1,5 @@
 #include "Visualizer.h"
-
+#include <math.h>
 
 Visualizer::Visualizer()
 	:Visualizer(10,10)
